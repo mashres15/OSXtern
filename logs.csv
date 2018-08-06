@@ -1,7 +1,3 @@
 Step,Process ID,What Happened?
 0,1,Start
-1,2,Start
-2,3,Start
-3,3,Finish
-4,4,Start
-5,4,Finish
+1,1,Finish
